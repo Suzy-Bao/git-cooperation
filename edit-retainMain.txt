@@ -1,4 +1,4 @@
 --start--
 dev-remove
---end--
+main-keep
 expect:main-keep
